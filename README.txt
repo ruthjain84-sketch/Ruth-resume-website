@@ -1,19 +1,26 @@
+
 IIMB DBE Resume Website — Ruth Jain
 
 FILES
-- index.html: website content and structure
-- style.css: design and responsive styling
+- index.html: Website content and structure
+- style.css: Website design and responsive styling
+- photo.jpg: Personal portrait photograph
 
 HOW TO USE
-1. Keep index.html and style.css in the same folder.
-2. Add your portrait photo to this folder and name it photo.jpg.
-3. Open index.html in a browser to preview the website.
-4. In index.html, replace:
-   - your.email@example.com with your email address
-   - https://www.linkedin.com/in/your-profile/ with your LinkedIn URL
-   - Class 10 result/year and Class 12 completion year placeholders
-   - project title/description placeholders
-   - editable About Me paragraph and any other details you want to add
-5. You can edit the text directly in index.html using VS Code or another code editor.
+1. Keep index.html, style.css and photo.jpg in the same folder.
+2. Open index.html in a web browser to preview the website.
+3. Edit index.html using VS Code to update personal information.
+4. Edit style.css to customise colours, fonts, spacing and layout.
+5. Save your changes before refreshing the browser.
 
-The page uses Google Fonts when internet access is available; system fallback fonts are included.
+DESIGN FEATURES
+- Clean, minimal and responsive layout
+- Google Fonts: DM Sans and Playfair Display
+- CSS Flexbox and Grid
+- Interactive hover effects
+- Sections for education, leadership, projects, skills and contact
+
+TECHNOLOGIES
+- HTML5
+- CSS3
+- Google Fonts
